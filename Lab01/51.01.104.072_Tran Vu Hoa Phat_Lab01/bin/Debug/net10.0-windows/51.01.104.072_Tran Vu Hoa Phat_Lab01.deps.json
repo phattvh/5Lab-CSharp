@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "51.01.104.072_Tran Vu Hoa Phat_Lab01/1.0.0": {
+        "runtime": {
+          "51.01.104.072_Tran Vu Hoa Phat_Lab01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "51.01.104.072_Tran Vu Hoa Phat_Lab01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
