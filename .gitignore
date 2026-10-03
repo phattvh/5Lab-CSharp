@@ -1,7 +1,0 @@
-## Visual Studio tạm & cache
-.vs/
-[Bb]in/
-[Oo]bj/
-*.user
-*.suo
-*.tmp
